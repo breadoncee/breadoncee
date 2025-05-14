@@ -91,7 +91,7 @@ I use [Medium](https://medium.com/@devidpanonce) to reflect on my tech journey�
 
 ### 🏢 Organizations
 
-- 💡 **[AI Pilipinas Cebu](https://www.facebook.com/aipilipinascebu/)** – Empowering builders with workshops and open AI education  
+- 💡 **[AI Pilipinas Cebu](https://www.facebook.com/aipilipinascebu/)** – Empowering builders with workshops and discussion centered around AI
 - 🧠 **[Datos Pilipinas](https://datospilipinas.com/#/)** – Using data and tech to address Filipino social challenges
 
 ---
