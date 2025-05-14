@@ -27,7 +27,7 @@ I'm a software engineer and founder based in Cebu City, Philippines, passionate 
 #### 🧱 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%20Mobile%20&%20Web%20Apps%20+%20App%20Store%20%2F%20Play%20Deployments-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -51,8 +51,15 @@ I'm a software engineer and founder based in Cebu City, Philippines, passionate 
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-6E57E0?style=for-the-badge)
 
+#### 🧪 DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Workflows](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maestro.dev](https://img.shields.io/badge/Maestro.dev-A020F0?style=for-the-badge)
+
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-0081C9?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
