@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Brent Panonce
 
-## 🚀 Builder | Founder | AI Explorer
+## 🚀 Engineer with Purpose | Founder with Vision | Building AI for Impact
 
 I'm a software engineer and founder based in Cebu City, Philippines, passionate about building meaningful digital products. My journey has taken me from burnout to purpose—leveraging tech to solve real-world Filipino problems through thoughtful design, AI, and code.
 
