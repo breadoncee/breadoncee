@@ -14,6 +14,24 @@ I'm a software engineer and founder based in Cebu City, Philippines, passionate 
 
 ---
 
+### 🛠️ Featured Projects
+- 🔹 **[VeriPol](https://breadonce-portfolio-website.vercel.app/#projects)** – Voter empowerment app providing accessible political data  
+- 🔹 **[Get Your Coach AI](https://getyourcoach.ai/)** – An experimental AI-powered voice assistant that acts as a personal coach, built with Vapi and OpenAI to offer guidance and goal-focused conversations
+- 🔹 **[Dexcribe](https://breadonce-portfolio-website.vercel.app/#projects)** – AI legal assistant analyzing Philippine Supreme Court rulings  
+- 🔹 **[SenatorMatch](https://senator-match.vercel.app/)** – A 2025 voter alignment tool that matches users with Philippine senatorial candidates based on values, policies, and issue preferences  
+- 🔹 **[Don’tSign](https://breadonce-portfolio-website.vercel.app/#projects)** – AI-native contract platform for smarter drafting and redlining  
+
+---
+
+### ✍️ Writing & Reflections
+
+I use [Medium](https://medium.com/@devidpanonce) to reflect on my tech journey—growth, grit, burnout, AI, and building with heart.
+
+> 📘 *Recent Post:*  
+> ["Rediscovering Passion: My Journey Through Code, Burnout, and Rebirth in AI"](https://medium.com/@devidpanonce/rediscovering-passion-my-journey-through-code-burnout-and-rebirth-in-ai-b3213d2d014b)
+
+---
+
 ### 🧰 Tech Stack
 
 #### 🧑‍💻 Languages
@@ -60,24 +78,6 @@ I'm a software engineer and founder based in Cebu City, Philippines, passionate 
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NeonDB](https://img.shields.io/badge/NeonDB-0081C9?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🛠️ Featured Projects
-- 🔹 **[VeriPol](https://breadonce-portfolio-website.vercel.app/#projects)** – Voter empowerment app providing accessible political data  
-- 🔹 **[Get Your Coach AI](https://getyourcoach.ai/)** – An experimental AI-powered voice assistant that acts as a personal coach, built with Vapi and OpenAI to offer guidance and goal-focused conversations
-- 🔹 **[Dexcribe](https://breadonce-portfolio-website.vercel.app/#projects)** – AI legal assistant analyzing Philippine Supreme Court rulings  
-- 🔹 **[SenatorMatch](https://senator-match.vercel.app/)** – A 2025 voter alignment tool that matches users with Philippine senatorial candidates based on values, policies, and issue preferences  
-- 🔹 **[Don’tSign](https://breadonce-portfolio-website.vercel.app/#projects)** – AI-native contract platform for smarter drafting and redlining  
-
----
-
-### ✍️ Writing & Reflections
-
-I use [Medium](https://medium.com/@devidpanonce) to reflect on my tech journey—growth, grit, burnout, AI, and building with heart.
-
-> 📘 *Recent Post:*  
-> ["Rediscovering Passion: My Journey Through Code, Burnout, and Rebirth in AI"](https://medium.com/@devidpanonce/rediscovering-passion-my-journey-through-code-burnout-and-rebirth-in-ai-b3213d2d014b)
 
 ---
 
