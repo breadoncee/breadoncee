@@ -64,9 +64,10 @@ I'm a software engineer and founder based in Cebu City, Philippines, passionate 
 ---
 
 ### 🛠️ Featured Projects
-
-- 🔹 **[Dexcribe](https://breadonce-portfolio-website.vercel.app/#projects)** – AI legal assistant analyzing Philippine Supreme Court rulings  
 - 🔹 **[VeriPol](https://breadonce-portfolio-website.vercel.app/#projects)** – Voter empowerment app providing accessible political data  
+- 🔹 **[Get Your Coach AI](https://getyourcoach.ai/)** – An experimental AI-powered voice assistant that acts as a personal coach, built with Vapi and OpenAI to offer guidance and goal-focused conversations
+- 🔹 **[Dexcribe](https://breadonce-portfolio-website.vercel.app/#projects)** – AI legal assistant analyzing Philippine Supreme Court rulings  
+- 🔹 **[SenatorMatch](https://senator-match.vercel.app/)** – A 2025 voter alignment tool that matches users with Philippine senatorial candidates based on values, policies, and issue preferences  
 - 🔹 **[Don’tSign](https://breadonce-portfolio-website.vercel.app/#projects)** – AI-native contract platform for smarter drafting and redlining  
 
 ---
@@ -91,14 +92,7 @@ I use [Medium](https://medium.com/@devidpanonce) to reflect on my tech journey�
 ### 🏢 Organizations
 
 - 💡 **[AI Pilipinas Cebu](https://www.facebook.com/aipilipinascebu/)** – Empowering builders with workshops and open AI education  
-- 🧠 **[Datos Pilipinas](https://www.linkedin.com/company/datospilipinas/)** – Using data and tech to address Filipino social challenges
-
----
-
-### 📊 GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=breadonce&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breadonce&layout=compact)
+- 🧠 **[Datos Pilipinas](https://datospilipinas.com/#/)** – Using data and tech to address Filipino social challenges
 
 ---
 
