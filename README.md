@@ -30,7 +30,7 @@ I use [Medium](https://medium.com/@devidpanonce) to reflect on my tech journey�
 📘 *Latest Posts:*
 > [**Building AI Agents with Google’s ADK: Part 1 — Your First Agent**](https://medium.com/@devidpanonce/building-ai-agents-with-googles-adk-part-1-your-first-agent-2cb61c9d5f3b)
 
-> ["Rediscovering Passion: My Journey Through Code, Burnout, and Rebirth in AI"](https://medium.com/@devidpanonce/rediscovering-passion-my-journey-through-code-burnout-and-rebirth-in-ai-b3213d2d014b)
+> [**Rediscovering Passion: My Journey Through Code, Burnout, and Rebirth in AI**](https://medium.com/@devidpanonce/rediscovering-passion-my-journey-through-code-burnout-and-rebirth-in-ai-b3213d2d014b)
 
 
 ---
