@@ -28,9 +28,9 @@ I'm a software engineer and founder based in Cebu City, Philippines, passionate 
 I use [Medium](https://medium.com/@devidpanonce) to reflect on my tech journey—growth, grit, burnout, AI, and building with heart.
 
 📘 *Latest Posts:*
-> [**Building AI Agents with Google’s ADK: Part 1 — Your First Agent**](https://medium.com/@devidpanonce/building-ai-agents-with-googles-adk-part-1-your-first-agent-2cb61c9d5f3b)
+> [**Building AI Agents with Google’s ADK: Part 3 — Multi-Agent Workflows**](https://medium.com/@devidpanonce/building-ai-agents-with-googles-adk-part-3-multi-agent-workflows-550146abceee)
 
-> [**Rediscovering Passion: My Journey Through Code, Burnout, and Rebirth in AI**](https://medium.com/@devidpanonce/rediscovering-passion-my-journey-through-code-burnout-and-rebirth-in-ai-b3213d2d014b)
+> [**To Anyone Who Feels Lost While Trying Their Best — This Is for You**](https://medium.com/@devidpanonce/️-to-anyone-who-feels-lost-while-trying-their-best-this-is-for-you-c6bbe79a1c7a)
 
 
 ---
@@ -86,7 +86,7 @@ I use [Medium](https://medium.com/@devidpanonce) to reflect on my tech journey�
 
 ### 🌐 Connect with Me
 
-- 🌍 **Portfolio**: [breadonce-portfolio-website.vercel.app](https://breadonce-portfolio-website.vercel.app/)
+- 🌍 **Website**: [https://davidpanonce.dev](https://davidpanonce.dev)
 - 💼 **LinkedIn**: [linkedin.com/in/david-brent-panonce](https://www.linkedin.com/in/david-brent-panonce/)
 - ✍️ **Medium**: [medium.com/@devidpanonce](https://medium.com/@devidpanonce)
 
